@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Dancing-Field-Cat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Dancing-Field-Cat/Dancing-Field-Cat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 hey you!! you're awake
+here you can access all my game-related projects!
 
+- she / they / he
+- skyrim followers (creation kit)
+- gdscript
+
+stats

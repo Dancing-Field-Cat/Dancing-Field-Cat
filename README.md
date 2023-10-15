@@ -1,4 +1,5 @@
 hey you!! you're awake
+
 here you can access all my game-related projects!
 
 - she / they / he
@@ -6,4 +7,5 @@ here you can access all my game-related projects!
 - gdscript
 
 stats
+
 [![Dancing-Field-Cat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dancing-Field-Cat)](https://github.com/Dancing-Field-Cat/github-readme-stats)
